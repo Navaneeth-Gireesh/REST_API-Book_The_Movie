@@ -1,0 +1,6 @@
+# Username and Password
+
+# Admin
+
+    Username : movieadmin
+    Password : Movieadmin@123
